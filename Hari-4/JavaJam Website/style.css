@@ -1,0 +1,27 @@
+body {
+  font-family: "sans-serif";
+  background-color: #fcebb6;
+  color: #221811;
+  padding: 0 15%;
+}
+
+header {
+  background-color: #d2b48c;
+}
+
+h1 {
+  line-height: 200%;
+  text-align: center;
+}
+
+nav {
+  font-weight: bold;
+  text-align: center;
+}
+
+footer {
+  background-color: #d2b48c;
+  font-size: 0.6em;
+  font-style: italic;
+  text-align: center;
+}
